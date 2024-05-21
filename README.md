@@ -11,7 +11,7 @@ advancement.json 18行目
     "function": "poisonsword:main"
   }
 ```
+  main.mcfunction 1行目
 ```
-  main.mcfunction
   speed → wither
 ```
