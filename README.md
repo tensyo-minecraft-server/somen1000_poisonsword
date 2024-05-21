@@ -5,13 +5,13 @@
 
 (次のコードを変更/書き加えると毒の剣が機能するようになります。
 advancement.json 18行目
-`
+```
 ,
   "rewards": {
     "function": "poisonsword:main"
   }
-`
-`
+```
+```
   main.mcfunction
   speed → wither
-`
+```
