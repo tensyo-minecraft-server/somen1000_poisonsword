@@ -1,0 +1,1 @@
+give @p stone_sword{display:{Name:'{"text":"ポイズンソード","color":"dark_green","italic":false}',Lore:['{"text":"殴った敵にウィザー3を5秒間与えます。","color":"aqua","italic":false}','{"text":"エンチャント/金床使用可能です。","color":"aqua","italic":false}']},somen_poisonsword:1} 1
